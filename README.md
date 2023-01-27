@@ -141,3 +141,5 @@ Validate the HTML and CSS code.
 
 ## Result:
 
+thus the calculator had done
+
